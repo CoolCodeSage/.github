@@ -54,5 +54,5 @@ Intellectual honesty and responsible use of open-source software are non-negotia
 
 ## Contact
 
-ISE is maintained by its founder and engineer.  
+ISE is maintained by its founder, engineers and friends that create magic.  
 For questions, discussions, or collaboration, use repository issues where appropriate.
